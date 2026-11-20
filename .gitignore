@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Large dataset files (download from Kaggle instead of committing)
+books.csv
+ratings.csv
+to_read.csv
+book_tags.csv
+tags.csv
